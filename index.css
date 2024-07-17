@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(67, 67, 198);
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    background-color: brown;
+    color: lightgreen;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: navy;
+    color: rgb(184, 184, 68);
+}
+
+h3 {
+    font-size: 25px;
+    background-color: yellow;
+    color: navy;
+}
+
+img {
+    width: 170px;
+    border: 3px solid peru;
+}
+
+a {
+    color: aquamarine;
+}
+
+p {
+    color: lightblue;
+}
+
+footer {
+    background-color: darkgreen;
+}
